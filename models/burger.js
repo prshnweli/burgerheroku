@@ -22,7 +22,7 @@ var burgers = {
   //   orm.delete("burgers", condition, function(res) {
   //     cb(res);
   //   });
-  }
+  //}
 };
 
 module.exports = burgers;
